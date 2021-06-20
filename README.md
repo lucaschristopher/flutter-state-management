@@ -1,16 +1,7 @@
-# flutter_state_management
+### State Management in Flutter
 
-A new Flutter project.
+Study of state management implementations in Flutter: Redux, BLoC, MobX, RxNotifier and Triple.
 
-## Getting Started
+_Content by_: [Flutterando channel](https://www.youtube.com/playlist?list=PLlBnICoI-g-fAG1Z-0n5VpwXmbVQd7DRf);
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### _All honor and all glory, everything comes from him and everything is for him: JESUS!_
